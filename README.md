@@ -1,0 +1,2 @@
+# jagonya-link
+Script safelink
